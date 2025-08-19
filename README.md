@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarommelRabbid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarommelRabbid&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 * Homebrew and web developer
   * Homebrew for the PS Vita, PSP and PS3
