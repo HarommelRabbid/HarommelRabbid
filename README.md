@@ -9,7 +9,7 @@
 * Languages I'm learning:
   * C++ & C#
 * Reaching me:
-  * **Twitter**: Harommel
+  * **Twitter**: Harommel or HarommelOddSock
   * **Discord**: harommel_oddsock
 
 <!---
