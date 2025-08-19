@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @HarommelRabbid
-- 👀 I’m interested in homebrew developement on the Vita, PS3 and also web apps.
-- 🌱 I’m currently learning C, C++ & C#.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me on Discord & Twitter: harommel_oddsock & Harommel
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Hm.
+* Homebrew and web developer
+* * Homebrew for the PS Vita, PSP and PS3
+* Languages I know:
+* * C
+* * Python & Lua
+* * HTML, CSS, PHP & JS
+* Languages I'm learning:
+* * C++ & C#
+* Reaching me:
+* * **Twitter**: Harommel
+* * **Discord**: harommel_oddsock
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarommelRabbid&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
