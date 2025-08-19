@@ -1,5 +1,5 @@
 * Homebrew and web developer
-* * Homebrew for the PS Vita, PSP and PS3
+** Homebrew for the PS Vita, PSP and PS3
 * Languages I know:
 * * C
 * * Python & Lua
