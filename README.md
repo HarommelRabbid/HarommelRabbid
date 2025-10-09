@@ -10,7 +10,7 @@
   * C++ & C#
 * Reaching me:
   * **Twitter**: Harommel or HarommelOddSock
-  * **Discord**: harommel_oddsock
+  * **Discord**: harommel
 
 <!---
 HarommelRabbid/HarommelRabbid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
